@@ -4,6 +4,30 @@
 using namespace std;
 
 /*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Airways - name,flights
 
 Flight - tickets,price,seatCount
